@@ -1,0 +1,40 @@
+{
+  "employee": [
+    {
+      "id": "1",
+      "name": "Shibila",
+      "department": "HR",
+      "age": "3",
+      "gender": "Female",
+      "salary": "4340",
+      "yearsOfExperience": "4"
+    },
+    {
+      "id": "2",
+      "name": "Loran",
+      "department": "Development",
+      "age": "45",
+      "gender": "Male",
+      "salary": "32435",
+      "yearsOfExperience": "45"
+    },
+    {
+      "id": "3",
+      "name": "Rahul",
+      "department": "Testing",
+      "age": "45",
+      "gender": "Male",
+      "salary": "645645",
+      "yearsOfExperience": "45"
+    },
+    {
+      "id": "4",
+      "name": "Rasha",
+      "department": "Development",
+      "age": "34",
+      "gender": "Male",
+      "salary": "3253",
+      "yearsOfExperience": "3"
+    }
+  ]
+}
